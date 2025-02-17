@@ -1,1 +1,1 @@
-React application with CRUH operations
+React application with CRUD operations
